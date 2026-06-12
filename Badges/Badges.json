@@ -10,13 +10,6 @@
     {
       "borderColor": "#00000000",
       "color": "#000000",
-      "id": "gr",
-      "isExpanded": true,
-      "name": "Resolution"
-    },
-    {
-      "borderColor": "#00000000",
-      "color": "#000000",
       "id": "gv",
       "isExpanded": true,
       "name": "Visual"
@@ -85,58 +78,6 @@
       "isEnabled": true,
       "name": "WebDL",
       "pattern": "(?i)\\b(?:web[-_. ]?dl|webdl|webrip|web-rip)\\b",
-      "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "gr",
-      "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/4k.png",
-      "isEnabled": true,
-      "name": "4K",
-      "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
-      "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "gr",
-      "id": "r-1080",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/1080p.png",
-      "isEnabled": true,
-      "name": "1080p",
-      "pattern": "(?i)\\b1080[pi]?\\b",
-      "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "gr",
-      "id": "r-720",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/720p.png",
-      "isEnabled": true,
-      "name": "720p",
-      "pattern": "(?i)\\b720[pi]?\\b",
-      "tagColor": "#1A1A1A",
-      "tagStyle": "filled",
-      "textColor": "#FFFFFF",
-      "type": "filter"
-    },
-    {
-      "borderColor": "#00000000",
-      "groupId": "gv",
-      "id": "v-seadex",
-      "imageURL": "https://raw.githubusercontent.com/9mousaa/BetterFormatter/main/images/mono-SeaDex.png",
-      "isEnabled": true,
-      "name": "SeaDex",
-      "pattern": "(?i)\\b(?:seadex|best[\\s._-]?release|alt[\\s._-]?(?:best[\\s._-]?)?release)\\b| s|s s",
       "tagColor": "#1A1A1A",
       "tagStyle": "filled",
       "textColor": "#FFFFFF",
